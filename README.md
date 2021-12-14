@@ -3,7 +3,6 @@
 - 🔭 Atuamente cruso ADS na Fatec
 - 🌱 Pretendo trabalhar com back-end
 - 👯 Estudando Javascript
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/0MiniPorrinha">
