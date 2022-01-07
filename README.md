@@ -2,7 +2,7 @@
 
 - 🔭 Atuamente cruso ADS na Fatec
 - 🌱 Pretendo trabalhar com back-end
-- 👯 Estudando Javascript
+- 👯 Estudando Java
 
 <div align="center">
   <a href="https://github.com/0MiniPorrinha">
