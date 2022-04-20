@@ -1,7 +1,7 @@
 ## Oii! Eu sou o Hugo
 
-- 🔭 Atuamente cruso ADS na Fatec
-- 🌱 Pretendo trabalhar com back-end
+- 🔭 Atuamente cruso ADS no Senac
+- 🌱 Pretendo trabalhar com back-end com Elixir 
 - 👯 Estudando Java
 
 <div align="center">
@@ -13,8 +13,10 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Hugo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Hugo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Hugo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Hugo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+   <img align="center" alt="Hugo-Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
+          
+    
 </div>
   
   ##
