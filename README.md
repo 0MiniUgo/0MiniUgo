@@ -1,8 +1,8 @@
 ## Oii! Eu sou o Hugo
 
 - 🔭 Atuamente cruso ADS no Senac
-- 🌱 Pretendo trabalhar com back-end com Elixir 
-- 👯 Estudando Java
+- 🌱 Pretendo trabalhar com back-end
+- 👯 Estudando Elixir
 
 <div align="center">
   <a href="https://github.com/0MiniPorrinha">
