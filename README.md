@@ -1,6 +1,6 @@
 ## Oii! Eu sou o Hugo
 
-- 🔭 Atuamente cruso ADS no Senac
+- 🔭 Atuamente curso ADS no Senac
 - 🌱 Pretendo trabalhar com back-end
 - 👯 Estudando Elixir
 
