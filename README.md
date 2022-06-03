@@ -1,8 +1,8 @@
 ## Oii! Eu sou o Hugo
 
-- 🔭 Atuamente curso ADS no Senac
+- 🔭 Atualmente curso ADS
 - 🌱 Pretendo trabalhar com back-end
-- 👯 Estudando Elixir
+- 👯 Estudando Elixir e Java
 
 <div align="center">
   <a href="https://github.com/0MiniPorrinha">
