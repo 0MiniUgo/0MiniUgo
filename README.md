@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente curso ADS
 - 🌱 Pretendo trabalhar com back-end
-- 👯 Estudando Elixir e Java
+- 👯 Estudando Java e Angular
 
 <div align="center">
   <a href="https://github.com/0MiniUgo">
