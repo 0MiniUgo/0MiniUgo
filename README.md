@@ -1,8 +1,6 @@
-## Oii! Eu sou o Hugo
-
-- 🔭 Atualmente curso ADS
-- 🌱 Pretendo trabalhar com back-end
-- 👯 Estudando Java e Angular
+- Atualmente cursando ADS
+- Estagiário focado em Groovy e Grails
+- Atualmente estudando Golang como hobby
 
 <div align="center">
   <a href="https://github.com/0MiniUgo">
